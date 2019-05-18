@@ -1,11 +1,11 @@
 # Site settings
-author: Jason
-title: 
+author: Jason Yoon
+title: Data Science for Mechanical Engineer
 header-img: img/home-bg.png
 email: gwonchanyoon@gmail.com
-copyright_name: Jason
+copyright_name: Jason Yoon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  .
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gwonchan
