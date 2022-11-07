@@ -1,5 +1,15 @@
 ---
 layout: post
+title: "hello rshinyapps"
+subtitle: "This is the post subtitle."
+date: YYYY-MM-DD HH:MM:SS
+background: '/PATH_TO_IMAGE'
+---
+
+
+
+---
+layout: post
 title:      "why I choose data science"
 date:       2019-05-18 15:16:51 -0400
 permalink:  why_i_choose_data_science
