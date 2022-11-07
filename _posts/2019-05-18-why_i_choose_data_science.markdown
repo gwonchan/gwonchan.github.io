@@ -5,7 +5,7 @@ date: 2022-11-06 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
 dds forever!
-<iframe src="https://6jv0lq-jason-yoon.shinyapps.io/project/"></iframe>
+<iframe src="https://6jv0lq-jason-yoon.shinyapps.io/project/" height="800px" width="100%"></iframe>
 
 
 ---
