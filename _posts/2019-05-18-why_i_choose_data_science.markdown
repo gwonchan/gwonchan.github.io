@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "hello rshinyapps"
-subtitle: "This is the post subtitle."
-date: YYYY-MM-DD HH:MM:SS
+date: 2022-11-06 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
-
+dds forever!
 
 
 ---
