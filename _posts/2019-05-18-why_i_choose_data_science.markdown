@@ -12,7 +12,7 @@ dds forever!
 layout: post
 title:      "why I choose data science"
 date:       2019-05-18 15:16:51 -0400
-permalink:  https://6jv0lq-jason-yoon.shinyapps.io/project/
+permalink:  
 ---
 
 
