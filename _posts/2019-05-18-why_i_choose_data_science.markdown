@@ -4,9 +4,7 @@ title: "hello rshinyapps"
 date: 2022-11-06 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
-dds forever!
-
-<p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> dds forever! <\a><\p>
+<p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> dds forever! </a></p>
 
 <iframe src="https://6jv0lq-jason-yoon.shinyapps.io/project/" height="4000px" width="100%"></iframe>
 
