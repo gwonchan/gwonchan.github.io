@@ -7,11 +7,12 @@ background: '/PATH_TO_IMAGE'
 dds forever!
 
 
+
 ---
 layout: post
 title:      "why I choose data science"
 date:       2019-05-18 15:16:51 -0400
-permalink:  why_i_choose_data_science
+permalink:  https://6jv0lq-jason-yoon.shinyapps.io/project/
 ---
 
 
