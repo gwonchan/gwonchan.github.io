@@ -6,7 +6,7 @@ background: '/PATH_TO_IMAGE'
 ---
 <p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> dds forever! </a></p>
 
-<iframe src="https://6jv0lq-jason-yoon.shinyapps.io/project/" height="4000px" width="100%"></iframe>
+<iframe src="https://6jv0lq-jason-yoon.shinyapps.io/project/" height="2000px" width="100%"></iframe>
 
 
 ---
