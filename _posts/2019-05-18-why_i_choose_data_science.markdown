@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "hello rshinyapps"
-date: 2022-11-06 08:30:00
+title: "Employee Attrition Prediction using Machine learning"
+date: 2022-11-26 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
-<p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> dds forever! </a></p>
+<p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> Network plot Demo (Rshiny) </a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Q804zF6DwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
