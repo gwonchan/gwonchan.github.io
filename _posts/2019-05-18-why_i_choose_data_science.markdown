@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Employee Attrition Prediction using Machine learning"
+title: "Employee Attrition Prediction (GLM)"
 date: 2022-11-26 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
