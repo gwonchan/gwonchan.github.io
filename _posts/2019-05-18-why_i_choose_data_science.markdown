@@ -6,8 +6,7 @@ background: '/PATH_TO_IMAGE'
 ---
 <p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> dds forever! </a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CyjqdaHZAIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Q804zF6DwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 layout: post
