@@ -5,8 +5,6 @@ date: 2022-11-26 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
 
-{% include aero_sm.html %}
-
 <p><a href="https://matlab.mathworks.com/matlab/9.14.0.2245102/window.html?winId=39fdb248-9fc2-426f-b45c-d076d211379a"> sliding mode control for aero dynamics of 2-D airfoil </a></p>
 
 
