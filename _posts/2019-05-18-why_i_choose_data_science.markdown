@@ -4,7 +4,7 @@ title: "portfolio"
 date: 2022-11-26 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
-<p><a href="https://github.com/gwonchan/gwonchan.github.io/blob/78762a3277393d10b22363c291f377ac8c507bc6/aero_sm.html"> sliding mode control for aero dynamics of 2-D airfoil </a></p>
+<p><a href="https://matlab.mathworks.com/matlab/9.14.0.2245102/window.html?winId=39fdb248-9fc2-426f-b45c-d076d211379a"> sliding mode control for aero dynamics of 2-D airfoil </a></p>
 
 
 <p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> Network plot Demo (Rshiny) </a></p>
