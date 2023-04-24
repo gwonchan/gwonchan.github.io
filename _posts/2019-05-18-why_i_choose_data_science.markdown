@@ -5,7 +5,7 @@ date: 2022-11-26 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
 
-<p><a href="https://matlab.mathworks.com/matlab/9.14.0.2245102/window.html?winId=39fdb248-9fc2-426f-b45c-d076d211379a"> sliding mode control for aero dynamics of 2-D airfoil </a></p>
+<p><a href="https://drive.matlab.com/sharing/9062106a-6665-4f60-923d-b9701ee923e0"> sliding mode control for aero dynamics of 2-D airfoil </a></p>
 
 
 <p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> Network plot Demo (Rshiny) </a></p>
