@@ -4,6 +4,9 @@ title: "Employee Attrition Prediction (GLM)"
 date: 2022-11-26 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
+
+https://matlab.mathworks.com/matlab/9.14.0.2245102/window.html?winId=8d381d90-1519-4f0b-8576-0045148ec7de
+
 <p><a href="https://6jv0lq-jason-yoon.shinyapps.io/project/"> Network plot Demo (Rshiny) </a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Q804zF6DwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
