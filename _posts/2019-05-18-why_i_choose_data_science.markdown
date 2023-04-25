@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DDS forever"
+title: "DDS forever@SMU"
 date: 2022-11-26 08:30:00
 background: '/PATH_TO_IMAGE'
 ---
