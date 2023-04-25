@@ -1,8 +1,17 @@
----
-layout: page
-title: About
-header-img: "img/about-bg.png"
----
-    {% include aero_sm.html %}
+<!DOCTYPE html>
+<html lang="en">
 
-<p>.</p>
+{% include head.html %}
+
+<body>
+
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+     {% include aero_sm.html %}
+
+</body>
+
+</html>
