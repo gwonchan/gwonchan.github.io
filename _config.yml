@@ -1,9 +1,9 @@
 # Site settings
-author: Jason Yoon
-title: Doing Data Science @ SMU
+author: Gwonchan Jason Yoon
+title: AVICS FOREVER @ KOREA UNIVERSITY
 header-img: img/home-bg.png
 email: gwonchanyoon@gmail.com
-copyright_name: Jason Yoon
+copyright_name: Gwonchan Jason Yoon
 description: > # this means to ignore newlines until "baseurl:"
   .
 baseurl: "" # the subpath of your site, e.g. /blog
